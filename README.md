@@ -1,11 +1,14 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Brain Sleep Co., Ltd.
+- 🌱 I’m the first year of the doctoral program at the University of Electro-Communications.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakarin0528&count_private=true&show_icons=true&theme=algolia)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nakarin0528&layout=compact&theme=algolia)
 <!--
 **nakarin0528/nakarin0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
