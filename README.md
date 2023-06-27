@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Brain Sleep Co., Ltd.
-- 🌱 I’m the second year of the doctoral program at the University of Electro-Communications.
+- 🌱 I’m in the third year of the doctoral program at the University of Electro-Communications.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakarin0528&count_private=true&show_icons=true&theme=algolia)
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nakarin0528&layout=compact&theme=algolia)
 <!--
